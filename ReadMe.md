@@ -10,8 +10,7 @@ JDK version: 11
 INSTALLATION
 ------------------------------------------------------------
 Here is EGS_testing installation process step by step:
-1. Clone project from gitlab:
-   link git
+1. Clone project from gitlab: https://github.com/armanmad93/EGS_testing.git
 2. Download Mysql.
 3. Go to [database.properties](database.properties) and enter your configuration settings.
 4. Go to [config.properties](config.properties) and enter your authorization token.
