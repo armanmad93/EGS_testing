@@ -1,0 +1,1 @@
+INSERT INTO scenario (scenario_name) VALUES ('POSITIVE'), ('NEGATIVE');
